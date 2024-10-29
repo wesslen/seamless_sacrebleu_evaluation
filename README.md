@@ -6,7 +6,7 @@ A Python-based pipeline for evaluating machine translations using the Seamless M
 
 This repository contains tools for:
 - Batch translation using Meta's [Seamless M4T V2 model](https://huggingface.co/facebook/seamless-m4t-v2-large)
-- Translation quality evaluation using [sacreBLEU metrics]()
+- Translation quality evaluation using [sacreBLEU metrics](https://github.com/mjpost/sacrebleu)
 - Support for multiple reference translations
 - GPU acceleration support
 
