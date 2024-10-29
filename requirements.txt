@@ -1,0 +1,6 @@
+torch==2.5.0+cu121
+transformers==4.44.2
+sacrebleu==2.4.3
+tqdm==4.66.5
+numpy==1.26.4
+sentencepiece==0.2.0
