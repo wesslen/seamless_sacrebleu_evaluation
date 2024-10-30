@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 
 3. Open the notebook in Google Colab or Jupyter:
-   - Navigate to `notebooks/translation_evaluation.ipynb`
+   - Navigate to `notebooks/seamless_sacrebleu_evaluation.ipynb`
    - If using Colab, ensure you have enabled GPU runtime (A100)
 
 ## Usage
