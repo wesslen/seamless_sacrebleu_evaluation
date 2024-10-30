@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mt-evaluation-pipeline.git
+git clone https://github.com/wesslen/seamless_sacrebleu_evaluation.git
 cd mt-evaluation-pipeline
 ```
 
