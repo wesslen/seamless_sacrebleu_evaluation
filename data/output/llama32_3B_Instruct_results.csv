@@ -1,0 +1,128 @@
+model,file,source,translation,reference
+Llama 3.2 3B Instruct (Local),01,Wells Fargo Bank | Financial Services & Online Banking,Banco Wells Fargo | Servicios Financieros y Banca en Línea,Wells Fargo Bank | Servicios Financieros y Banca por Internet
+Llama 3.2 3B Instruct (Local),01,How can we help?,¿Cómo podemos ayudar?,¿Cómo podemos ayudarle?
+Llama 3.2 3B Instruct (Local),01,Popular FAQs,Preguntas frecuentes,Preguntas frecuentes populares
+Llama 3.2 3B Instruct (Local),01,How do I find my routing and account numbers?,¿Cómo puedo encontrar mi número de ruta y mi número de cuenta?,¿Cómo puedo encontrar mis números de ruta y de cuenta?
+Llama 3.2 3B Instruct (Local),01,Is there a fee for Zelle®?,¿Hay un cargo por Zelle?,¿Se aplica algún cargo por usar Zelle®?
+Llama 3.2 3B Instruct (Local),01,How do I report suspected fraud?,¿Cómo denunciar fraude sospechado?,¿Qué debo hacer para reportar una sospecha de fraude?
+Llama 3.2 3B Instruct (Local),01,See more FAQs,Ver más preguntas frecuentes,Ver más preguntas frecuentes
+Llama 3.2 3B Instruct (Local),01,Find a location,Encuentra un lugar,Busque ATM/sucursal
+Llama 3.2 3B Instruct (Local),01,Make an appointment,Haga una cita,Haga una cita
+Llama 3.2 3B Instruct (Local),01,Quick help,Ayuda rápida,Ayuda rápida
+Llama 3.2 3B Instruct (Local),01,Customer service and FAQs,Servicio al cliente y preguntas frecuentes,Servicio al cliente y preguntas frecuentes
+Llama 3.2 3B Instruct (Local),01,Security and fraud,Seguridad y fraude,Seguridad y fraude
+Llama 3.2 3B Instruct (Local),01,Global remittance,Remesas globales,Remesas globales
+Llama 3.2 3B Instruct (Local),01,Foreign exchange,Cambio de divisas,Cambio de moneda extranjera
+Llama 3.2 3B Instruct (Local),01,Activate debit card,Activar tarjeta de débito,Activación inicial de tarjeta de débito
+Llama 3.2 3B Instruct (Local),01,Transfer and pay,Transferir y pagar,Transfiera y pague
+Llama 3.2 3B Instruct (Local),01,Report fraud,Informar fraude,Reporte el fraude
+Llama 3.2 3B Instruct (Local),01,Find routing and account numbers,Encuentra números de ruta y cuenta,Encuentre los números de ruta y de cuenta
+Llama 3.2 3B Instruct (Local),01,Checking FAQs,Preguntas frecuentes,Preguntas frecuentes sobre cuentas de cheques
+Llama 3.2 3B Instruct (Local),01,Good evening,Buenas noches,Buenas noches
+Llama 3.2 3B Instruct (Local),01,Sign on to manage your accounts,Iniciar sesión para gestionar tus cuentas,Inicie sesión para administrar sus cuentas
+Llama 3.2 3B Instruct (Local),01,Username,Nombre de usuario,Usuario
+Llama 3.2 3B Instruct (Local),01,Password,Contraseña,Contraseña
+Llama 3.2 3B Instruct (Local),01,Save username,Guardar nombre de usuario,Guarde el usuario
+Llama 3.2 3B Instruct (Local),01,Notice,Atención,Aviso
+Llama 3.2 3B Instruct (Local),01,"For your security, we do not recommend using this feature on a shared device.","Para su seguridad, no recomendamos utilizar esta función en un dispositivo compartido.","Por su seguridad, no recomendamos usar esta función en un dispositivo compartido."
+Llama 3.2 3B Instruct (Local),01,Enroll,Inscribirse,Inscríbase
+Llama 3.2 3B Instruct (Local),01,Forgot username or password?,Olvidó su nombre de usuario o contraseña.,¿Olvidó su usuario o contraseña?
+Llama 3.2 3B Instruct (Local),01,Security Center,Centro de Seguridad,Centro de seguridad
+Llama 3.2 3B Instruct (Local),01,"Privacy, Cookies, and Legal","Privacidad, Políticas de Cookies y Legales","Privacidad, cookies y asuntos legales"
+Llama 3.2 3B Instruct (Local),01,Screen image simulated.,Imagen de pantalla simulada.,La imagen en pantalla es simulada.
+Llama 3.2 3B Instruct (Local),02,Say hello to convenient checking,Dile hola a la revisión conveniente,Hola a una cuenta de cheques conveniente
+Llama 3.2 3B Instruct (Local),02,Explore our checking options and choose the right account for you,Explora nuestras opciones de verificación y elige el cuenta adecuada para ti,Explore nuestras opciones de cuentas de cheques y elija la adecuada para usted
+Llama 3.2 3B Instruct (Local),02,Get started,Empezar,Para comenzar
+Llama 3.2 3B Instruct (Local),02,Find mortgage happiness,Encuentra la felicidad hipotecaria,Sienta alegría hipotecaria
+Llama 3.2 3B Instruct (Local),02,With a down payment as low as 3%,Con un depósito inicial tan bajo como el 3%,"Con un pago inicial bajo, desde tan solo el 3%"
+Llama 3.2 3B Instruct (Local),02,Learn more,Aprende más,Más información
+Llama 3.2 3B Instruct (Local),02,Unlock convenient checking,Desbloquear comprobación conveniente,Acceda una cuenta de cheques conveniente
+Llama 3.2 3B Instruct (Local),02,Find a credit card,Encuentra una tarjeta de crédito,Encuentre una tarjeta de crédito
+Llama 3.2 3B Instruct (Local),02,"Low intro rate, cash back, rewards and more","Tasa de introducción baja, reembolso en efectivo, recompensas y más","Baja tasa intro, recompensas en efectivo y más"
+Llama 3.2 3B Instruct (Local),02,Interest rates today,Tasas de interés hoy,Tasas de interés hoy
+Llama 3.2 3B Instruct (Local),02,Check rates,Tarifas de verificación,Consulte las tasas
+Llama 3.2 3B Instruct (Local),02,A home of your own,Un hogar propio,Una casa propia
+Llama 3.2 3B Instruct (Local),02,With low down payment options on a fixed-rate mortgage,Con opciones de pago a bajo en una hipoteca con tasa fija,Con opciones de pago inicial bajo en hipotecas de tasa fija
+Llama 3.2 3B Instruct (Local),02,Financial guidance and support,Guía financiera y apoyo,Apoyo y orientación financieros
+Llama 3.2 3B Instruct (Local),02,Save. Invest. Retire well.,Ahorrar. Invertir. Retirarse bien.,Ahorre. Invierta. Jubílese bien.
+Llama 3.2 3B Instruct (Local),02,Discover how to start saving to meet your retirement goals,Descubre cómo empezar a ahorrar para alcanzar tus objetivos de jubilación,Descubra cómo comenzar a ahorrar para cumplir sus metas para la jubilación
+Llama 3.2 3B Instruct (Local),02,Reduce debt. Build credit. Enjoy life.,Reduce deuda. Construye crédito. Disfruta la vida.,Menor deuda. Mejor crédito. Viva la vida.
+Llama 3.2 3B Instruct (Local),02,Banking in the palm of your hand,Banca en la palma de tu mano,Servicios bancarios en la palma de su mano
+Llama 3.2 3B Instruct (Local),02,Our Wells Fargo Mobile® app gives you fast and secure access to your finances,Nuestra aplicación móvil de Wells Fargo te da acceso rápido y seguro a tus finanzas,Nuestra app de Wells Fargo Mobile® le ofrece acceso rápido y seguro a sus finanzas
+Llama 3.2 3B Instruct (Local),02,Check your account balance,Verifique su saldo de cuenta,Consulte el saldo de su cuenta
+Llama 3.2 3B Instruct (Local),02,View your latest FICO® Score,Verifique su puntuación FICO más reciente,Vea su Puntuación FICO® Score más reciente
+Llama 3.2 3B Instruct (Local),02,Send and receive money with Zelle®,Envía y recibe dinero con Zelle®,Envíe y reciba dinero con Zelle®
+Llama 3.2 3B Instruct (Local),02,Download our app,Descargue nuestra aplicación,Descargue nuestra app
+Llama 3.2 3B Instruct (Local),02,Serving our customers and communities,Atendiendo a nuestros clientes y comunidades,Sirviendo a nuestros clientes y a nuestras comunidades
+Llama 3.2 3B Instruct (Local),02,"It doesn't happen with one transaction, in one day on the job, or in one quarter. It's earned relationship by relationship.","No ocurre con una transacción, en un día de trabajo o en un cuarto. Es una relación ganada a relación.","Eso no ocurre con una transacción, en un día de trabajo ni en un trimestre. Se logra relación por relación."
+Llama 3.2 3B Instruct (Local),02,Who we are,¿Quiénes somos,Quiénes somos
+Llama 3.2 3B Instruct (Local),02,"Wells Fargo helps strengthen communities through diversity, equity, and inclusion, economic empowerment, and sustainability.","Wells Fargo ayuda a fortalecer comunidades a través de la diversidad, la equidad y la inclusión, el empoderamiento económico y la sostenibilidad.","Wells Fargo ayuda a fortalecer a las comunidades mediante la diversidad, la equidad, la inclusión, el fortalecimiento económico y la sustentabilidad."
+Llama 3.2 3B Instruct (Local),02,Why we're committed to communities,Por qué estamos comprometidos con las comunidades,Por qué hemos asumido un compromiso con las comunidades
+Llama 3.2 3B Instruct (Local),02,We don't just serve our communities—we are our communities.,"No solo servimos a nuestras comunidades, somos nuestras comunidades.",No solo les prestamos servicios a nuestras comunidades; somos nuestras comunidades.
+Llama 3.2 3B Instruct (Local),02,We're committed to helping customers and neighborhoods across the country thrive.,Estamos comprometidos con ayudar a los clientes y las comunidades de todo el país a prosperar.,Hemos asumido el compromiso de ayudar a que clientes y vecindarios en todo el país prosperen.
+Llama 3.2 3B Instruct (Local),02,Clear Access Banking,Acceso Claro Bancario,Cuenta Clear Access Banking
+Llama 3.2 3B Instruct (Local),02,An account that helps you spend only what you have in it,Un registro que te permite gastar solo lo que tienes en él,Una cuenta que le ayuda a gastar solo lo que tiene en ella
+Llama 3.2 3B Instruct (Local),02,Prime Checking,Verificación primaria,Cuenta de Cheques Prime Checking
+Llama 3.2 3B Instruct (Local),02,Many discounts and benefits are included with this interest-bearing account,Muchos descuentos y beneficios están incluidos en este cuenta con interés.,Se incluyen muchos descuentos y beneficios con esta cuenta que produce intereses
+Llama 3.2 3B Instruct (Local),02,Everyday Checking,Verificación diaria,Cuenta de Cheques Everyday Checking
+Llama 3.2 3B Instruct (Local),02,Our most popular account for managing day-to-day financial needs,Nuestro cuenta más popular para gestionar necesidades financieras diarias,Nuestra cuenta más popular para administrar las necesidades financieras diarias
+Llama 3.2 3B Instruct (Local),02,Premier Checking,Verificación de préstamos,Cuenta de Cheques Premier Checking
+Llama 3.2 3B Instruct (Local),02,An interest-bearing account with our premier level of relationship banking benefits,Cuenta con intereses con nuestros beneficios de banca de relación de nivel premier,"Una cuenta que produce intereses, con nuestro nivel Premier de beneficios bancarios por relación"
+Llama 3.2 3B Instruct (Local),02,Student/teen banking,Bancario estudiantil,Servicios bancarios para adolescentes y estudiantes
+Llama 3.2 3B Instruct (Local),02,Account options ideal for teens and students,Opciones de cuenta ideales para adolescentes y estudiantes,Opciones de cuentas ideales para adolescentes y estudiantes
+Llama 3.2 3B Instruct (Local),02,Way2Save® Savings,Ahorro Way2Save,Cuenta de Ahorros Way2Save® Savings
+Llama 3.2 3B Instruct (Local),02,Build your savings automatically,Construye tus ahorros automáticamente,Construya sus ahorros automáticamente
+Llama 3.2 3B Instruct (Local),02,Platinum Savings,Ahorro de Platino,Cuenta de Ahorros Platinum Savings
+Llama 3.2 3B Instruct (Local),02,Grow your savings with more ways to access your money,Aumenta tus ahorros con más formas de acceder a tu dinero,Haga crecer sus ahorros con más maneras de acceder a su dinero
+Llama 3.2 3B Instruct (Local),02,Wells Fargo CDs,CDs de Wells Fargo,Certificados de depósito (CD) de Wells Fargo
+Llama 3.2 3B Instruct (Local),02,"Provide a guaranteed rate of return, even during uncertain times","Proporcionar una tasa de retorno garantizada, incluso en tiempos inciertos","Ofrece una tasa de retorno garantizada, incluso en momentos de incertidumbre"
+Llama 3.2 3B Instruct (Local),02,Kids Savings,Ahorros para niños,Ahorros para niños
+Llama 3.2 3B Instruct (Local),02,A good way to start your children on the road to financial success,Una buena manera de poner a tus hijos en el camino hacia el éxito financiero,Una buena manera de comenzar a guiar a sus hijos por el camino hacia el éxito financiero
+Llama 3.2 3B Instruct (Local),02,Cash back credit cards,Tarjetas de crédito de devolución de efectivo,Tarjetas de crédito de devolución en efectivo (cash back)
+Llama 3.2 3B Instruct (Local),02,Rewards credit cards,Tarjetas de crédito de recompensas,Tarjetas de crédito de recompensas
+Llama 3.2 3B Instruct (Local),02,0% intro APR credit cards,Carteras de crédito sin interés anual del 0%,Tarjetas de crédito con tasa APR introductoria del 0%
+Llama 3.2 3B Instruct (Local),02,Travel credit cards,Tarjetas de crédito de viaje,Tarjetas de crédito para viajes
+Llama 3.2 3B Instruct (Local),02,Balance transfer credit cards,Tarjetas de crédito de transferencia de saldo,Tarjetas de crédito de transferencia de saldo
+Llama 3.2 3B Instruct (Local),02,Buy a home,Comprar una casa,Compre una vivienda
+Llama 3.2 3B Instruct (Local),02,Get started on your homeownership journey,Comienza tu viaje a la propiedad de tu hogar,Comience su camino para ser propietario de vivienda
+Llama 3.2 3B Instruct (Local),02,Refinance your mortgage,Refinanciar tu préstamo hipotecario,Refinancie su préstamo hipotecario
+Llama 3.2 3B Instruct (Local),02,"Do home repairs, reduce payments, or more","Hacer reparaciones en el hogar, reducir pagos, o más","Haga reparaciones en la vivienda, reduzca los pagos o más"
+Llama 3.2 3B Instruct (Local),02,First-time home buyers,Compradores de viviendas por primera vez,Compradores de casa por primera vez
+Llama 3.2 3B Instruct (Local),02,See low down payment options and key steps,Ver opciones de pago con bajas cuotas y pasos clave,Consulte opciones de pago inicial bajo y pasos clave
+Llama 3.2 3B Instruct (Local),02,"You must be the primary account holder of an eligible Wells Fargo consumer account with a FICO® Score available, and enrolled in Wells Fargo Online®.",Debes ser el titular principal de un cuenta de consumidor de Wells Fargo con una puntuación FICO disponible y inscrito en Wells Fargo Online.,"Usted debe ser el titular principal de una cuenta al consumidor de Wells Fargo elegible con una Puntuación FICO® Score disponible, y estar inscrito en la Banca por Internet Wells Fargo Online®."
+Llama 3.2 3B Instruct (Local),02,The assistance is provided at no cost.,La asistencia se proporciona a costa nula.,No se cobra ningún cargo por esta asistencia.
+Llama 3.2 3B Instruct (Local),02,Continue,Sigue,Continúe
+Llama 3.2 3B Instruct (Local),02,Cancel,Cancelar,Cancele
+Llama 3.2 3B Instruct (Local),02,You are leaving the Wells Fargo website,Estás saliendo del sitio web de Wells Fargo,Está saliendo del sitio Web de Wells Fargo
+Llama 3.2 3B Instruct (Local),02,You are leaving wellsfargo.com and entering a website that Wells Fargo does not control.,Estás saliendo de wells Fargo y entrando a un sitio web que Wells Fargo no controla.,Está saliendo de wellsfargo.com y está ingresando en un sitio Web que Wells Fargo no controla.
+Llama 3.2 3B Instruct (Local),02,"Wells Fargo has provided this link for your convenience, but does not endorse and is not responsible for the products, services, content, links, privacy policy, or security policy of this website.","Wells Fargo ha proporcionado este enlace por su conveniencia, pero no endosa ni es responsable de los productos, servicios, contenido, enlaces, política de privacidad ni política de seguridad de este sitio web.","Wells Fargo ha proporcionado este enlace para su comodidad, pero no avala ni se hace responsable de los productos, los servicios, el contenido, los enlaces, la política de privacidad ni la política de seguridad de este sitio Web."
+Llama 3.2 3B Instruct (Local),02,"City, State or ZIP","Ciudad, Estado o Código Postal",Código postal o ciudad y estado
+Llama 3.2 3B Instruct (Local),02,Go,Vámonos,Ir
+Llama 3.2 3B Instruct (Local),02,Tools,Herramientas,Herramientas
+Llama 3.2 3B Instruct (Local),02,Tips,Consejos,Sugerencias
+Llama 3.2 3B Instruct (Local),02,Peace of mind,Paz de mente,Tranquilidad
+Llama 3.2 3B Instruct (Local),02,Get tools. Get tips. Get peace of mind.,Obtén herramientas. Obtén consejos. Obtén paz de mente.,Herramientas. Sugerencias. Tranquilidad.
+Llama 3.2 3B Instruct (Local),02,"Discover digital tools to help you budget, save, manage credit, and more","Descubre herramientas digitales para ayudarte a presupuestar, ahorrar, gestionar créditos y más","Herramientas digitales para presupuestar, ahorrar, administrar el crédito y más"
+Llama 3.2 3B Instruct (Local),02,Access the toolkit,Acceso al conjunto de herramientas,Acceda el paquete de herramientas
+Llama 3.2 3B Instruct (Local),02,Wells Fargo Stories,Historias de Wells Fargo,Relatos de Wells Fargo
+Llama 3.2 3B Instruct (Local),02,BANKING SERVICES,SERVICIOS DE BANCA,SERVICIOS BANCARIOS
+Llama 3.2 3B Instruct (Local),02,DIGITAL BANKING,BANCA DIGITAL,SERVICIOS BANCARIOS DIGITALES
+Llama 3.2 3B Instruct (Local),02,EDUCATION & TOOLS,EDUCACIÓN & HERRAMIENTOS,EDUCACIÓN Y HERRAMIENTAS
+Llama 3.2 3B Instruct (Local),02,Compare checking accounts,Comparar cuentas bancarias,Compare las cuentas de cheques
+Llama 3.2 3B Instruct (Local),02,Savings & CDs,Ahorros & CDs,Ahorros y cuentas a plazo (CD)
+Llama 3.2 3B Instruct (Local),02,Credit Cards,Tarjetas de crédito,Tarjetas de crédito
+Llama 3.2 3B Instruct (Local),02,Home Loans,Préstamos de vivienda,Préstamos hipotecarios
+Llama 3.2 3B Instruct (Local),02,Auto Loans,Préstamos automotrices,Préstamos para automóviles
+Llama 3.2 3B Instruct (Local),02,Investing,Invertir,Inversiones
+Llama 3.2 3B Instruct (Local),02,Small Business,Pequeña empresa,Pequeñas empresas
+Llama 3.2 3B Instruct (Local),02,Commercial Banking,Banca Comercial,Banca comercial
+Llama 3.2 3B Instruct (Local),02,Sitemap,Mapa de sitio,Mapa del sitio
+Llama 3.2 3B Instruct (Local),02,About Wells Fargo,Sobre Wells Fargo,Acerca de Wells Fargo
+Llama 3.2 3B Instruct (Local),02,Careers,Carreras,Empleo
+Llama 3.2 3B Instruct (Local),02,Diversity and Accessibility,Diversidad y accesibilidad,Diversidad y accesibilidad
+Llama 3.2 3B Instruct (Local),02,Our Wells Fargo Mobile® app gives you fast and secure access to your finances,Nuestra aplicación móvil de Wells Fargo te da acceso rápido y seguro a tus finanzas,Nuestra app de Wells Fargo Mobile® le ofrece acceso rápido y seguro a sus finanzas
+Llama 3.2 3B Instruct (Local),02,Check your account balance,Verifique su saldo de cuenta,Consulte el saldo de su cuenta
+Llama 3.2 3B Instruct (Local),02,View your latest FICO® Score,Verifique su puntuación FICO más reciente,Vea su Puntuación FICO® Score más reciente
+Llama 3.2 3B Instruct (Local),02,Send and receive money with Zelle®,Envía y recibe dinero con Zelle®,Envíe y reciba dinero con Zelle®
+Llama 3.2 3B Instruct (Local),02,Please note that the score provided under this service is for educational purposes and may not be the score used by Wells Fargo to make credit decisions.,Tenga en cuenta que el puntaje proporcionado bajo este servicio es para fines educativos y puede no ser el puntaje utilizado por Wells Fargo para tomar decisiones de crédito.,Tenga en cuenta que la puntuación proporcionada a través de este servicio es para fines educativos y es posible que no sea la puntuación utilizada por Wells Fargo para tomar decisiones de crédito.
+Llama 3.2 3B Instruct (Local),02,"Wells Fargo looks at many factors to determine your credit options; therefore, a specific FICO® Score or Wells Fargo credit rating does not guarantee a specific loan rate, approval of a loan, or an upgrade on a credit card.","Wells Fargo considera muchos factores para determinar sus opciones de crédito; por lo tanto, un puntaje FICO específico o una calificación de crédito de Wells Fargo no garantiza una tasa de interés específica, la aprobación de un préstamo o un aumento en una tarjeta de crédito.","Hay muchos factores que Wells Fargo analiza para determinar sus opciones de crédito; por lo tanto, una Puntuación FICO® Score o clasificación de crédito de Wells Fargo específicas no garantizan una tasa de préstamo específica, la aprobación de un préstamo o una mejora de categoría en una tarjeta de crédito."
